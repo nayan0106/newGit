@@ -6,6 +6,8 @@ public class Sample1
 	{
 		System.out.println("HII");
 		
+		System.out.println("This is my first Program");
+		
 	}
 
 }
