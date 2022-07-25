@@ -9,6 +9,9 @@ public class Sample2 {
 		int c=50;
 		 int sum=a+b+c;
 		 System.out.println(sum);
+		 
+		 int multi=a*b*c;
+		 System.out.println(multi);
 		
 
 	}
