@@ -10,6 +10,11 @@ public class Sample4 {
 			 System.out.print(s.charAt(i)+" ");
 		 }
 		System.out.println();
+		
+		int a=100;
+		int b=30;
+		int sub=a-b;
+		System.out.println(sub);
 
 	}
 
